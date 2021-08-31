@@ -26,10 +26,15 @@ In addition to the acrylic parts the kit contains:
 
 | Qty | Item                                                         |
 | --- | ------------------------------------------------------------ |
-|     |                                                              |
-
-
-Note that the foam tape is usually already applied to Layer 01.
+|  1  | 5VDC 40x40x10mm fan                                          |
+|  1  | 2-pin 0.1" male header                                       |
+|  4  | Self-tapping fans screws OR rubber fan mounts                |
+|  4  | 30mm black nylon M3 F-F hex spacers                          |
+|  4  | 3mm circular spacer
+|  8  | 12mm black nylon M3 screws                                   |
+|  8  | Black nylon M3 nuts                                          |
+|  8  | Black steel M3 screws                                        |
+|  4  | Rubber bumpers                                               |
 
 ## Other hardware required
 
@@ -39,12 +44,13 @@ Note that the foam tape is usually already applied to Layer 01.
 
 ## Changelog
 
-| Version | Date     | Summary
-|---------|----------|--------------------
-|   0.0   |          |                    |
+| Version | Date       | Summary                                               |
+|---------|------------|-------------------------------------------------------|
+|   1.0   | 19/12/2017 | Initial version for LimeSDR with USB Type Micro B     |
+
 
 ## Licence
 
-LimeSDR-USB Hacker Case copyright 2017 [AB Open Ltd](http://abopen.com).
+LimeSDR-USB Hacker Case copyright 2017-2021 [AB Open Ltd](http://abopen.com).
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
