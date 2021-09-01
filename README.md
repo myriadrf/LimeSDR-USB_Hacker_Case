@@ -1,6 +1,6 @@
 # LimeSDR-USB Hacker Case
 
-![LUHC-01 case](/images/case.jpg)
+![LUHC-01 case](/images/top_assembly.jpg)
 
 An acrylic enclosure designed to accommodate the LimeSDR-USB plus either a GPIO Board or LMS8001 Companion.
 
@@ -10,7 +10,6 @@ A complete kit of parts can be bought from [Crowd Supply](https://www.crowdsuppl
 
 The case design is provided in the following formats:
 
-* FreeCAD
 * DXF
 
 The case parts are laser cut from the following types of acrylic sheet:
@@ -42,10 +41,15 @@ In addition to the acrylic parts the kit contains:
 - LimeSDR GPIO or LMS8001 Companion board
 - Panel mount SMA socket to U.FL coaxial cables
 
+## Assembly Guide
+
+Please see the [assembly guide](ASSEMBLY.md)
+
 ## Changelog
 
 | Version | Date       | Summary                                               |
 |---------|------------|-------------------------------------------------------|
+|   1.1   | 01/09/2021 | v1.1 to accommodate LimeSDR with USB type A plug      |
 |   1.0   | 19/12/2017 | Initial version for LimeSDR with USB Type Micro B     |
 
 
