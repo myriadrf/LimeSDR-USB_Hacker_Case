@@ -29,9 +29,9 @@ In addition to the acrylic parts the kit contains:
 |  1  | 2-pin 0.1" male header                                       |
 |  4  | Self-tapping fans screws OR rubber fan mounts                |
 |  4  | 30mm black nylon M3 F-F hex spacers                          |
-|  4  | 3mm circular spacer
-|  8  | 12mm black nylon M3 screws                                   |
-|  8  | Black nylon M3 nuts                                          |
+|  4  | M3x5 screws                                                  |
+|  4  | 12mm black nylon M3 screws                                   |
+|  4  | Black nylon M3 nuts                                          |
 |  8  | Black steel M3 screws                                        |
 |  4  | Rubber bumpers                                               |
 
